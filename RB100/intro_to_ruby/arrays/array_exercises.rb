@@ -62,7 +62,7 @@ arr = ["a", "b", "c", "d"]
 
 arr.each_with_index{|val, idx| puts "#{idx +1}: #{val}"}
 
-=end
+
 
 #EXERCISE 8
 
